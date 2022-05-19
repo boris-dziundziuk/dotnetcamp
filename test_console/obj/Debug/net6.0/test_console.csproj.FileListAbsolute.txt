@@ -1,0 +1,15 @@
+/Users/borisdziundziuk/Projects/test_console/test_console/bin/Debug/net6.0/test_console
+/Users/borisdziundziuk/Projects/test_console/test_console/bin/Debug/net6.0/test_console.deps.json
+/Users/borisdziundziuk/Projects/test_console/test_console/bin/Debug/net6.0/test_console.runtimeconfig.json
+/Users/borisdziundziuk/Projects/test_console/test_console/bin/Debug/net6.0/test_console.dll
+/Users/borisdziundziuk/Projects/test_console/test_console/bin/Debug/net6.0/test_console.pdb
+/Users/borisdziundziuk/Projects/test_console/test_console/obj/Debug/net6.0/test_console.csproj.AssemblyReference.cache
+/Users/borisdziundziuk/Projects/test_console/test_console/obj/Debug/net6.0/test_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borisdziundziuk/Projects/test_console/test_console/obj/Debug/net6.0/test_console.AssemblyInfoInputs.cache
+/Users/borisdziundziuk/Projects/test_console/test_console/obj/Debug/net6.0/test_console.AssemblyInfo.cs
+/Users/borisdziundziuk/Projects/test_console/test_console/obj/Debug/net6.0/test_console.csproj.CoreCompileInputs.cache
+/Users/borisdziundziuk/Projects/test_console/test_console/obj/Debug/net6.0/test_console.dll
+/Users/borisdziundziuk/Projects/test_console/test_console/obj/Debug/net6.0/refint/test_console.dll
+/Users/borisdziundziuk/Projects/test_console/test_console/obj/Debug/net6.0/test_console.pdb
+/Users/borisdziundziuk/Projects/test_console/test_console/obj/Debug/net6.0/test_console.genruntimeconfig.cache
+/Users/borisdziundziuk/Projects/test_console/test_console/obj/Debug/net6.0/ref/test_console.dll
