@@ -13,8 +13,8 @@ for (let i = 0; i < imgTags.length; i++) {
     audioElement.src = imgTag.src;
 
     // set the audio element attributes for autoplay, loop and controls
-    audioElement.autoplay = true;
-    audioElement.loop = true;
+    audioElement.autoplay = false;
+    audioElement.loop = false;
     audioElement.controls = true;
 
     // replace the img tag with the audio element
